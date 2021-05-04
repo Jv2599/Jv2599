@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jv2599
+- 👀 I’m interested in app development
+- 🌱 I’m currently learning SQL and C
+- 💞️ I’m looking to collaborate on Android and apps
+- 📫 How to reach me: Please email jv2599@hotmail.com
