@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jv2599
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning SQL and C
-- 💞️ I’m looking to collaborate on Android and apps
+- 🌱 I’m currently studying Computer Science and Cybersecurity 
+- 🏫 I'm attending Mount Saint Mary's University in Emmitsburg, MD (Graduating May 2022)
+- 💞️ I’m looking to collaborate on anything based on Java 
 - 📫 How to reach me: Please email jv2599@hotmail.com
